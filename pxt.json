@@ -1,5 +1,5 @@
 {
-    "name": "pxt-huskylens",
+    "name": "huskylens",
     "version": "0.1.0",
     "description": "Huskylens für Calliope mini",
     "dependencies": {
