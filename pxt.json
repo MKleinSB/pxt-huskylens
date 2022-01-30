@@ -1,16 +1,16 @@
 {
     "name": "pxt-huskylens",
     "version": "0.1.0",
-    "description": "",
+    "description": "Huskylens für Calliope mini",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
         "main.blocks",
         "main.ts",
-        "huskylens.ts"
+        "huskylens.ts",
+        "_locales/de/Huskylens-strings.json"
     ],
     "testFiles": [
         "test.ts"
