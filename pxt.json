@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "huskylens.ts"
     ],
     "testFiles": [
         "test.ts"
