@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "huskylens.ts",
-        "_locales/de/Huskylens-strings.json"
+        "_locales/de/huskylens-strings.json"
     ],
     "testFiles": [
         "test.ts"
