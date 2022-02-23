@@ -44,7 +44,7 @@
    "protocolAlgorithm.ALGORITHM_COLOR_RECOGNITION|block":"Farberkennung",
    "protocolAlgorithm.ALGORITHM_TAG_RECOGNITION|block":"AprilTAG-Erkennung",
    "protocolAlgorithm.OBJECTCLASSIFICATION|block":"Objektklassifizierung",
-   "protocolAlgorithm.QRRECOGMITION|block":"QRcodeerkennnung (Edu)",
+   "protocolAlgorithm.QRRECOGNITION|block":"QRcodeerkennnung (Edu)",
    "protocolAlgorithm.BARCODERECOGNITION|block":"Barcodeerkennung (Edu)",
    "huskylens.isAppear_s|block": "HuskyLens ist %Ht aus ´Ergebnis´ auf dem Display?",
    "huskylens.readBox_s|block": "HuskyLens hole aus ´Ergebnis´ Parameter|%data aus der Box nahe der Mitte",
