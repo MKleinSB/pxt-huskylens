@@ -115,11 +115,11 @@ enum protocolAlgorithm {
     //%block="Tag Recognition"
     ALGORITHM_TAG_RECOGNITION = 5,
     //%block="Object classification"
-    OBJECTCLASSIFICATION,
-    //%block="QR recogmition (Edu only)"
-    QRRECOGMITION,
+    OBJECTCLASSIFICATION = 6,
+    //%block="QR recognition (Edu only)"
+    QRRECOGNITION = 7,
     //%block="Barcode recognition (Edu only)"
-    BARCODERECOGNITION
+    BARCODERECOGNITION = 8
 }
 
 
